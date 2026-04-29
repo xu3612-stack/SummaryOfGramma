@@ -1,0 +1,24 @@
+[
+  {"lesson":6,"title":"第6课：动词分类与て形基础","nodes":[
+    {"title":"本课导入","audioParts":[{"lang":"zh-CN","text":"第六课开始。这一课进入动词体系。核心是理解动词三类，以及为后续て形做准备。关键原则：日语动词变化有规则，不是随机变化。"}]},
+    {"title":"动词三类","audioParts":[{"lang":"zh-CN","text":"日语动词分为三类。一类动词，也叫五段动词。二类动词，也叫一段动词。三类动词只有两个：する 和 来ます。这个分类非常重要，因为后续所有变形都依赖它。"},{"lang":"ja-JP","text":"書きます 食べます 来ます します"},{"lang":"zh-CN","text":"不要死记单词，要记分类。"}]},
+    {"title":"て形的作用","audioParts":[{"lang":"zh-CN","text":"て形是日语最核心的连接形。它的作用包括：连接动作、表示请求、表示正在进行。你可以理解为：て形是一个桥。"}]}
+  ]},
+  {"lesson":7,"title":"第7课：移动与存在动词","nodes":[
+    {"title":"本课导入","audioParts":[{"lang":"zh-CN","text":"第七课重点是两个存在动词：あります 和 います。区别在于是否有生命。"}]},
+    {"title":"あります vs います","audioParts":[{"lang":"zh-CN","text":"あります 用于无生命物体。います 用于有生命。"},{"lang":"ja-JP","text":"机の上に本があります。犬がいます。"},{"lang":"zh-CN","text":"记住：有没有生命是核心判断标准。"}]}
+  ]},
+  {"lesson":8,"title":"第8课：形容词基础","nodes":[
+    {"title":"本课导入","audioParts":[{"lang":"zh-CN","text":"第八课进入形容词。分为 い形容词 和 な形容词。"}]},
+    {"title":"い形容词","audioParts":[{"lang":"zh-CN","text":"以 い 结尾，可以直接修饰名词。"},{"lang":"ja-JP","text":"おいしい 食べ物"}]},
+    {"title":"な形容词","audioParts":[{"lang":"zh-CN","text":"修饰名词需要加 な。"},{"lang":"ja-JP","text":"きれいな 部屋"}]}
+  ]},
+  {"lesson":9,"title":"第9课：形容词过去与否定","nodes":[
+    {"title":"本课导入","audioParts":[{"lang":"zh-CN","text":"第九课学习形容词的过去和否定。"}]},
+    {"title":"い形容词变化","audioParts":[{"lang":"zh-CN","text":"い变くない表示否定，变かった表示过去。"},{"lang":"ja-JP","text":"高い 高くない 高かった"}]}
+  ]},
+  {"lesson":10,"title":"第10课：存在位置表达","nodes":[
+    {"title":"本课导入","audioParts":[{"lang":"zh-CN","text":"第十课强化位置表达：N は 場所 に あります。"}]},
+    {"title":"位置句型","audioParts":[{"lang":"zh-CN","text":"结构是 A 在 B。"},{"lang":"ja-JP","text":"本は机の上にあります。"},{"lang":"zh-CN","text":"に 表示存在地点。"}]}
+  ]}
+]
