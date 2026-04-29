@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Japanese Audio Player</title>
+</head>
+<body>
+<h1>Japanese Grammar Audio Player</h1>
+<button onclick="playAll()">Play All</button>
+<ul id="list"></ul>
+<script src="data.js"></script>
+<script>
+const list = document.getElementById('list');
+data.forEach((item, i) => {
+  const li = document.createElement('li');
+  li.textContent = item.text;
+  li.onclick = () => speak(item.text);
+  list.appendChild(li);
+});
+function speak(text){
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'ja-JP';
+  speechSynthesis.speak(u);
+}
+function playAll(){
+  data.forEach(d => speak(d.text));
+}
+</script>
+</body>
+</html>
