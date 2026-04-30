@@ -1,0 +1,48 @@
+[
+  {
+    "lesson": 11,
+    "title": "第11课 数量词",
+    "nodes": [
+      {"title":"数量词基本概念","text":"数量词用于表示数量","audioParts":[{"lang":"zh-CN","text":"数量词用于表示数量，必须与名词配合使用，这是日语表达的基本规则。"},{"lang":"ja-JP","text":"三つ 五本 三人"}]},
+      {"title":"数量词的位置","text":"可放在动词前或句末","audioParts":[{"lang":"zh-CN","text":"数量词可以放在动词前，也可以放在句末，这两种结构都成立。"},{"lang":"ja-JP","text":"りんごを 三つ 食べます"},{"lang":"ja-JP","text":"りんごを 食べます 三つ"}]},
+      {"title":"数量词与助词","text":"数量词通常不加助词","audioParts":[{"lang":"zh-CN","text":"数量词一般不需要加助词，这是日语区别于中文的重要结构特点。"}]}
+    ]
+  },
+  {
+    "lesson": 12,
+    "title": "第12课 形容词过去与比较",
+    "nodes": [
+      {"title":"い形容词过去","text":"去い加かった","audioParts":[{"lang":"zh-CN","text":"い形容词变过去时，去掉い，加かったです。"},{"lang":"ja-JP","text":"高い → 高かったです"}]},
+      {"title":"な形容词过去","text":"变でした","audioParts":[{"lang":"zh-CN","text":"な形容词过去式使用でした。"},{"lang":"ja-JP","text":"静かでした"}]},
+      {"title":"比较句型","text":"AはBより","audioParts":[{"lang":"zh-CN","text":"A比B更怎么样，使用より表示比较对象。"},{"lang":"ja-JP","text":"東京は 大阪より 大きいです"}]},
+      {"title":"最高级","text":"いちばん","audioParts":[{"lang":"zh-CN","text":"いちばん表示最，用于最高级表达。"},{"lang":"ja-JP","text":"富士山が いちばん 高いです"}]}
+    ]
+  },
+  {
+    "lesson": 13,
+    "title": "第13课 好き与ほしい",
+    "nodes": [
+      {"title":"好き","text":"表示喜好","audioParts":[{"lang":"zh-CN","text":"好き表示喜欢，结构是名词加が好きです。"},{"lang":"ja-JP","text":"音楽が 好きです"}]},
+      {"title":"相关表达","text":"嫌い 上手 下手","audioParts":[{"lang":"zh-CN","text":"嫌い，上手，下手都使用が来标记对象。"},{"lang":"ja-JP","text":"日本語が 上手です"}]},
+      {"title":"ほしい","text":"表示想要","audioParts":[{"lang":"zh-CN","text":"ほしい表示想要，结构是名词加がほしいです。"},{"lang":"ja-JP","text":"車が ほしいです"}]}
+    ]
+  },
+  {
+    "lesson": 14,
+    "title": "第14课 て形",
+    "nodes": [
+      {"title":"て形作用","text":"连接句子","audioParts":[{"lang":"zh-CN","text":"て形是日语语法的核心，用于连接句子和构造其他语法。"}]},
+      {"title":"变化规则","text":"动词变化","audioParts":[{"lang":"zh-CN","text":"动词根据结尾变化为て形，例如く变いて，む变んで。"},{"lang":"ja-JP","text":"書く → 書いて"}]},
+      {"title":"てください","text":"表示请求","audioParts":[{"lang":"zh-CN","text":"てください表示请求别人做某事。"},{"lang":"ja-JP","text":"見てください"}]}
+    ]
+  },
+  {
+    "lesson": 15,
+    "title": "第15课 许可与禁止",
+    "nodes": [
+      {"title":"てもいい","text":"表示允许","audioParts":[{"lang":"zh-CN","text":"てもいい表示可以做某事。"},{"lang":"ja-JP","text":"入ってもいいです"}]},
+      {"title":"てはいけない","text":"表示禁止","audioParts":[{"lang":"zh-CN","text":"てはいけない表示不可以做某事。"},{"lang":"ja-JP","text":"入ってはいけません"}]},
+      {"title":"对比","text":"许可与禁止","audioParts":[{"lang":"zh-CN","text":"てもいい表示允许，てはいけない表示禁止，两者相反。"}]}
+    ]
+  }
+]
