@@ -1,0 +1,42 @@
+[
+  {
+    "lesson": 16,
+    "title": "第16课 て形连接与并列",
+    "nodes": [
+      {"title":"て形连接（并列）","text":"用て形连接两个动作","audioParts":[{"lang":"zh-CN","text":"て形可以连接两个连续或并列的动作，表示先后或顺接关系。"},{"lang":"ja-JP","text":"朝 ごはんを 食べて 学校へ 行きます"}]},
+      {"title":"并列描述（状态）","text":"形容词/名词并列","audioParts":[{"lang":"zh-CN","text":"形容词或名词也可以用て形或で进行并列说明。"},{"lang":"ja-JP","text":"部屋は 広くて きれいです"}]},
+      {"title":"注意事项","text":"动作顺序与逻辑","audioParts":[{"lang":"zh-CN","text":"用て形连接时，要注意动作的先后顺序与逻辑关系。"}]}]
+  },
+  {
+    "lesson": 17,
+    "title": "第17课 ない形（否定）",
+    "nodes": [
+      {"title":"ない形基本规则","text":"动词变否定","audioParts":[{"lang":"zh-CN","text":"动词的ない形用于表示否定，即不做某事。"},{"lang":"ja-JP","text":"行く → 行かない"}]},
+      {"title":"各类动词变化","text":"一类 二类 三类","audioParts":[{"lang":"zh-CN","text":"一类动词变a段加ない，二类动词去る加ない，三类动词有特殊变化。"},{"lang":"ja-JP","text":"食べる → 食べない"}]},
+      {"title":"否定句使用","text":"句型应用","audioParts":[{"lang":"zh-CN","text":"ない形可以直接构成否定句。"},{"lang":"ja-JP","text":"今日は 行かない"}]}]
+  },
+  {
+    "lesson": 18,
+    "title": "第18课 辞书形",
+    "nodes": [
+      {"title":"辞书形概念","text":"动词基本形","audioParts":[{"lang":"zh-CN","text":"辞书形是动词的原形，也是查字典时使用的形式。"},{"lang":"ja-JP","text":"食べる 行く 見る"}]},
+      {"title":"普通体句子","text":"简体表达","audioParts":[{"lang":"zh-CN","text":"辞书形常用于普通体句子，比ます形更口语。"},{"lang":"ja-JP","text":"明日 行く"}]},
+      {"title":"使用场景","text":"口语与书面","audioParts":[{"lang":"zh-CN","text":"辞书形多用于口语或非正式场合。"}]}]
+  },
+  {
+    "lesson": 19,
+    "title": "第19课 过去形（普通体）",
+    "nodes": [
+      {"title":"过去形规则","text":"动词过去","audioParts":[{"lang":"zh-CN","text":"动词的过去形用于描述已经发生的动作。"},{"lang":"ja-JP","text":"行く → 行った"}]},
+      {"title":"否定过去","text":"ない形过去","audioParts":[{"lang":"zh-CN","text":"否定过去由ない形变为なかった。"},{"lang":"ja-JP","text":"行かない → 行かなかった"}]},
+      {"title":"使用场景","text":"叙述过去","audioParts":[{"lang":"zh-CN","text":"用于描述过去发生的事情或经历。"}]}]
+  },
+  {
+    "lesson": 20,
+    "title": "第20课 普通体与名词修饰",
+    "nodes": [
+      {"title":"普通体概念","text":"简体表达","audioParts":[{"lang":"zh-CN","text":"普通体是日语的简体形式，用于日常交流。"}]},
+      {"title":"修饰名词","text":"句子修饰名词","audioParts":[{"lang":"zh-CN","text":"普通体可以直接放在名词前修饰名词。"},{"lang":"ja-JP","text":"昨日 買った 本"}]},
+      {"title":"理解重点","text":"句子结构","audioParts":[{"lang":"zh-CN","text":"修饰名词时，整个句子放在名词前，这是日语的重要结构特点。"}]}]
+  }
+]
